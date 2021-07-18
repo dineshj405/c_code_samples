@@ -11,6 +11,7 @@ int main()
         ++i;
     }
     sum = table * i;
+    // add a new line
     printf("sum = %d \n", sum);
     // for (i = 1; i <= 10; i++)
     // {
