@@ -12,16 +12,6 @@ int main()
     }
     sum = table * i;
     printf("sum = %d \n", sum);
-    // for (i = 1; i <= 10; i++)
-    // {
-    //     printf("%d x %d = %d \n", table, i, table * i);
-    // }
-
-    // do
-    // {
-    //     printf("%d x %d = %d \n", table, i, table * i);
-    //     i++;
-    // } while (i <= 10);
 
     return 0;
 }
