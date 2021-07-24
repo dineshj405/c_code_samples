@@ -2,3 +2,4 @@
 #  ignores all files ending with .exe 
 *.exe
 
+*.out
